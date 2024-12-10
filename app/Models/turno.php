@@ -26,5 +26,6 @@ class turno extends Model
 {
     return $this->belongsTo(Alumno::class, 'noctrl', 'noctrl');
 }
+
  
 }
