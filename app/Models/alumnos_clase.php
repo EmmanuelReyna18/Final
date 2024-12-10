@@ -25,7 +25,7 @@ class alumnos_clase extends Model
         'noctrl',
         'idGrupo',
     ];
-
+ 
     
     public function alumno()
     {
